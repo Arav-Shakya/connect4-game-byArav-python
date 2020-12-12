@@ -1,0 +1,7 @@
+in cmd or anny other type - pip install pygame
+
+                          - pip install numpy
+
+these are very important to install otherwise it will not work and i recommend you to to use pycharm or VS code to run this python file.
+
+i hope you like the game
